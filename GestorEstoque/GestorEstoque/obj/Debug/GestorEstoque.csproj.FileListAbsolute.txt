@@ -1,0 +1,8 @@
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\bin\Debug\GestorEstoque.exe.config
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\bin\Debug\GestorEstoque.exe
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\bin\Debug\GestorEstoque.pdb
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.csproj.AssemblyReference.cache
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.exe
+C:\Users\l.aprigio.da.silva\Desktop\Diretórios\Pessoal\Estudos\Cursos\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.pdb
